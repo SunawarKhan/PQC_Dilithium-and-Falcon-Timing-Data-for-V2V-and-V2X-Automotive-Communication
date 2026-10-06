@@ -1,0 +1,6 @@
+scheme,sec,public_key,reference_signature,component_sum,reported_total,unexplained_residual
+Dilithium-44,L2,1312,2420,3732,3740,8
+Dilithium-65,L3,1952,3309,5261,5269,8
+Dilithium-87,L5,2592,4627,7219,7227,8
+Falcon-512,L1,897,666,1563,1561,-2
+Falcon-1024,L5,1793,1280,3073,3074,1

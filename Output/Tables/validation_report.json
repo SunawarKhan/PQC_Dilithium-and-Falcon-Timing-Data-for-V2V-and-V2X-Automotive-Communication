@@ -1,0 +1,10 @@
+{
+  "original_experiment": "NOT_VERIFIED",
+  "source_pdf_transcription": "NOT_VERIFIED",
+  "raw_to_tidy": "NOT_RUN: original raw files not supplied",
+  "input_identity": "PASS: bundled tidy checksum",
+  "cell_counts": "PASS: 48 cells and all expected per-cell counts",
+  "reference_means": "PASS: 48 supplied constants within absolute tolerance 5e-6 us",
+  "analysis_assertions": "PASS",
+  "figure_exports": "PASS: 15 figures in PNG and PDF"
+}

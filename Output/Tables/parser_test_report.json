@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "checks": [
+    "bad scenario",
+    "bad family",
+    "bad variant",
+    "bad operation",
+    "NaN",
+    "infinite",
+    "zero",
+    "negative",
+    "missing column",
+    "18-file fixture roundtrip preserves exact record multiset",
+    "summary row",
+    "ragged row",
+    "checksum mismatch",
+    "path escape"
+  ],
+  "scope": "Synthetic parser fixtures and invalid-input rejection; original raw dataset NOT tested."
+}
