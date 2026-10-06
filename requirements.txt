@@ -1,0 +1,7 @@
+# Tested with Python 3.12.14; direct dependencies pinned to the successful execution.
+numpy==2.5.3
+pandas==2.2.3
+matplotlib==3.11.2
+nbconvert==7.17.1
+nbformat==5.11.1
+ipykernel==7.4.0
